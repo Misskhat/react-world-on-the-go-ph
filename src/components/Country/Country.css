@@ -4,3 +4,11 @@
     border: 2px solid salmon;
     border-radius: 20px;
 }
+
+.country-visited{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid salmon;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
